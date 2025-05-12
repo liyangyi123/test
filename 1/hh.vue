@@ -1,1 +1,6 @@
-哈哈哈
+<template>
+  <div>
+    <h1>哈哈哈</h1>
+  </div>
+</template>
+
